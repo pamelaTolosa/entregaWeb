@@ -1,0 +1,40 @@
+body {
+    background-image: linear-gradient(to right, #6d55be, #c86e44);
+}
+
+.titulo-principal {
+    font-size: 60px;
+    text-align: center;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    width: 80%;
+    height: 200px;
+    margin-left: 10%;
+}
+
+.contenedores {
+    width: 35%;
+    height: 55%;
+    align-items: center;
+    text-align: justify;
+    border-radius: 5px;
+    border: 3px solid black;
+    padding: 10px;
+    display: inline-block;
+    margin-bottom: 10px;
+    margin-left: 5%;
+}
+.container-5{
+  margin-left: 25%;
+}
+.series{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+}
+
+
